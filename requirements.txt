@@ -1,8 +1,9 @@
-streamlit
+streamlit==1.32.0
 python-dotenv
-langchain
+langchain==0.1.14
 langchain-community
 langchain-text-splitters
 langchain-huggingface
-faiss-cpu
+faiss-cpu==1.7.4
 sentence-transformers
+torch

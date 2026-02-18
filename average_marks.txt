@@ -1,0 +1,5 @@
+John:58.75
+Suresh:57.75
+Ramesh:69.5
+Jessica:68.125
+Jennifer:73.375
